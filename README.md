@@ -1,6 +1,7 @@
 # Full Stack Developer
 
 #### Technical Skills: Java, Spring framework, SQL. Rest Apis,Microservices,Nosql, Data Visulization tools
+Frontend: HTML5, CSS3, JavaScript, jQuery, React, SASS/LESS, Webpack
 ### Education
 - M.S., Busness Analytics | University of North Texas (_May 2024_)
 - B.E., Computer Science | Sathyabama University (_May 2019_)
