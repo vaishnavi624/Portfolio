@@ -24,4 +24,13 @@
 -Implemented centralized monitoring and logging using Elastic Stack, aiding faster root cause analysis in incident responses.
 
 ### Projects
-Microservices Health
+### Microservices-based for Healthcare Applications
+
+Designed and developed microservices for a healthcare application, enhancing system modularity and performance. Utilized Docker for containerization, ensuring 
+consistent deployment across different environments and reducing deployment time by 30%.
+
+### Retirement Plan Management System
+
+Developed a comprehensive platform for managing employer-sponsored retirement plans, integrating multiple third-party financial products. Reduced manual processing time by 50% through automation and real-time data validation.
+
+
